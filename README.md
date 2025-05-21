@@ -1,13 +1,12 @@
-# Frontend Mentor - Product preview card component solution
+# Frontend Mentor - Four card feature section solution
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
@@ -23,10 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Git Repo](https://github.com/abhishekbarve0612/product-preview-card-component-main)
-- Live Site URL: [Github Page](https://abhishekbarve0612.github.io/product-preview-card-component-main/)
-
-## My process
+- Solution URL: [Git Repo](https://github.com/abhishekbarve0612/four-card-feature-section-master)
+- Live Site URL: [Github Page](https://abhishekbarve0612.github.io/four-card-feature-section-master/)
 
 ### Built with
 
